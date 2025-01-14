@@ -1,0 +1,40 @@
+   76  git init git-branch/
+   77  cd git-branch/
+   78  git init
+   79  git init
+   80  git branch
+   81  git branch gitignore
+   82  git checkout
+   83  git checkout -b
+   84  git checkout -b gitignore
+   85  git branch
+   86  git branch -a
+   87  touch .gitignore
+   88  ls
+   89  cd ~
+   90  cd git_intro
+   91  git branch
+   92  git fetch --all
+   93  git branch
+   94  git checkout master
+   95  git branch
+   96  git push origin newbranch
+   97  git push origin newbranch
+   98  git log
+   99  cd kamili
+  100  cd C:\Users\User
+  101  ls
+  102  git
+  103  ls
+  104  cd C:\Users
+  105  cd User/
+  106  cd HomeWork12/
+  107  touch "readme.md"
+  108  git add "readme"
+  109  cd C:\User
+  110  cd Users
+  111  cd C:
+  112  cd Users/User/
+  113  cd HomeWork12/
+  114  history
+  115  history | tail -40 > history.txt
